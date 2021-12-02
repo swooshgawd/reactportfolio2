@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/reactportfolio2/static/css/main.b4d36f54.chunk.css",
+    "main.js": "/reactportfolio2/static/js/main.558c24f2.chunk.js",
+    "main.js.map": "/reactportfolio2/static/js/main.558c24f2.chunk.js.map",
+    "runtime-main.js": "/reactportfolio2/static/js/runtime-main.6b214f2d.js",
+    "runtime-main.js.map": "/reactportfolio2/static/js/runtime-main.6b214f2d.js.map",
+    "static/css/2.383c0125.chunk.css": "/reactportfolio2/static/css/2.383c0125.chunk.css",
+    "static/js/2.59072cf5.chunk.js": "/reactportfolio2/static/js/2.59072cf5.chunk.js",
+    "static/js/2.59072cf5.chunk.js.map": "/reactportfolio2/static/js/2.59072cf5.chunk.js.map",
+    "index.html": "/reactportfolio2/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/reactportfolio2/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.b4d36f54.chunk.css.map": "/reactportfolio2/static/css/main.b4d36f54.chunk.css.map",
+    "static/js/2.59072cf5.chunk.js.LICENSE.txt": "/reactportfolio2/static/js/2.59072cf5.chunk.js.LICENSE.txt",
+    "static/media/css.4e67641b.png": "/reactportfolio2/static/media/css.4e67641b.png",
+    "static/media/esportspage.c6645143.jpg": "/reactportfolio2/static/media/esportspage.c6645143.jpg",
+    "static/media/gamepage.9edd9034.jpg": "/reactportfolio2/static/media/gamepage.9edd9034.jpg",
+    "static/media/github.a7cb412d.png": "/reactportfolio2/static/media/github.a7cb412d.png",
+    "static/media/html.23784160.png": "/reactportfolio2/static/media/html.23784160.png",
+    "static/media/javascript.b08bf619.png": "/reactportfolio2/static/media/javascript.b08bf619.png",
+    "static/media/midnightpage.3e32a773.jpg": "/reactportfolio2/static/media/midnightpage.3e32a773.jpg",
+    "static/media/mysql.6e42b2a0.png": "/reactportfolio2/static/media/mysql.6e42b2a0.png",
+    "static/media/nodejs.d980d963.png": "/reactportfolio2/static/media/nodejs.d980d963.png",
+    "static/media/notepage.d3236e00.jpg": "/reactportfolio2/static/media/notepage.d3236e00.jpg",
+    "static/media/parth.beba961f.JPG": "/reactportfolio2/static/media/parth.beba961f.JPG",
+    "static/media/quizpage.04bdce03.jpg": "/reactportfolio2/static/media/quizpage.04bdce03.jpg",
+    "static/media/react.f153eb9f.png": "/reactportfolio2/static/media/react.f153eb9f.png",
+    "static/media/index.css": "/reactportfolio2/static/media/space.b25f2ebd.jpg",
+    "static/media/weatherpage.facc26d4.jpg": "/reactportfolio2/static/media/weatherpage.facc26d4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b214f2d.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.59072cf5.chunk.js",
+    "static/css/main.b4d36f54.chunk.css",
+    "static/js/main.558c24f2.chunk.js"
+  ]
+}

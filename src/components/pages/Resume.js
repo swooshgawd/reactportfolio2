@@ -14,7 +14,7 @@ import Notepage from '../../images/notepage.jpg'
 export default function Skills() {
     return (
         <div className='resumeDiv'>
-        <h1>Resume</h1>
+        <a href="https://docs.google.com/document/d/1ZsNZBBRQuoD45Msg1b9llARjsvTBsFCZ/edit?usp=sharing&ouid=115073050941282450900&rtpof=true&sd=true"><h1>Resume</h1></a>
         <div className='logos'>
         <img src={htmlLogo } className="htmlimg" alt="logo"  />
         <img src={cssLogo } className="cssimg" alt="logo"  />
